@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola gracias por pasarte soy un desarrollador interesado por la inteligencia artificial y la codificacion me gusta afrontar retos siempre  y trazarme nuevas metas actualmente soy egresado de la carrera de matematicas aplicadas y computacion y quiero seguir desarrollando habilidades en programacion 👋
 
 <!--
 **Jonhystreet/Jonhystreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
